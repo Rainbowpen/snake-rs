@@ -21,7 +21,7 @@ Here you go, another snake game.
  1. Make sure you have Cargo installed on your system.
  2. Clone the repo: `git clone https://github.com/Rainbowpen/snake-rs.git`
  3. Go into the snake-rs directory: `cd snake-rs`
- 4. Run it with Cargo: `Cargo run`
+ 4. Run it with Cargo: `cargo run` or `cargo install --path .`
 
  ---
 
