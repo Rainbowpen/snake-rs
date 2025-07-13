@@ -1,6 +1,6 @@
 
 <p align="center" width="100%">
-    <img width="100%" src="images/snake-rs.png">
+    <img width="100%" src="images/snake-rs_blue.png">
 </p>
 
 Snake-rs is a snake game written in rust. Aim to be played on the terminal whenever you have to wait for system update, ansible, build, etc... to finish.
