@@ -11,9 +11,8 @@ Snake-rs is a snake game written in rust. Aim to be played on the terminal whene
 # Motivation
 After reading ["The Book"](https://doc.rust-lang.org/book/ "Title"), I wanted to make a simple stuff that could help me learn Rust.
 And it reminds me that I had wrote a snake game in Python years ago for the same purpose.
-But it was a little bit different this time, because I got proper Neovim + auto completion setup instead of Gedit.
-So I was pretty much flying blindly with documentations on my fingertips and having some fun with Rust.
-Here you go, another snake game.
+However, it was a little bit different this time because I had a proper Neovim + auto completion setup, instead of Gedit.
+So I was pretty much flying blindly with documentations on my fingertips and it was quite fun ngl.
 
  ---
 
